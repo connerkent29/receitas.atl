@@ -115,6 +115,25 @@ header {
     background-color: #140C29;
     color: #ccc;
 }
+
+.logout-btn {
+    padding: 10px;
+    background-color: #6027FF;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: 700;
+    margin-bottom: 10px;
+    display: block;
+    width: 100%;
+}
+
+.logout-btn:hover {
+    font-family: "Inter", sans-serif;
+    font-weight: 600;
+    background-color: #140C29;
+    color: #ccc;
 main {
     flex: 1;
     padding: 20px;
